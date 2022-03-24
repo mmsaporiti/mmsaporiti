@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmsaporiti
-- 👀 I’m interested in learn and pratice a lot. 
+- 👀 I’m interested in learning data analytics and coding. 
 - 🌱 I’m currently learning python for data analytics and visualization tools.
 - 💞️ I’m looking to collaborate on basics tasks for data analytics.
 - 📫 How to reach me ...
